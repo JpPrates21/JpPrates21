@@ -12,7 +12,7 @@ Sou estudante de **Engenharia de Controle e Automação** na **Universidade Fede
 ## 🔗 Vamos nos conectar
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JpPrates21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-pinheiro-prates-9563051ab](https://www.linkedin.com/in/joão-pedro-prates-9563051ab/)](https://www.linkedin.com/in/joão-pedro-prates-9563051ab/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-prates-9563051ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpprates2016@gmail.com)
 
 ---
