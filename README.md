@@ -1,6 +1,6 @@
 # 👨‍💻 João Pedro Pinheiro Prates
 
-### Estudante de Engenharia de Controle e Automação | Back-end Developer | Atleta
+### Engenharia de Controle e Automação | Full-Stack Developer 
 
 ---
 
