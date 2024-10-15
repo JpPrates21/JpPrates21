@@ -4,9 +4,9 @@
 
 ---
 
-## 🚀 Sobre mim
+## 💻 Sobre mim
 
-Olá! Sou estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)** e tenho 19 anos. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **programação full-stack**.
+Sou estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)** e tenho 19 anos. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **programação full-stack**.
 ---
 
 ## 🔗 Vamos nos conectar
