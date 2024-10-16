@@ -33,7 +33,7 @@ Sou estudante de **Engenharia de Controle e Automação** na **Universidade Fede
 ## 📊 Estatísticas
 
 [![Sistema de Loja Online](https://github-readme-stats.vercel.app/api/pin/?username=JpPrates21&repo=SistemaDeLojaOnline&bg_color=0D1117&border_color=A020F0&show_icons=true&icon_color=FFFFFF&title_color=A020F0&text_color=FFF)](https://github.com/JpPrates21/SistemaDeLojaOnline)
-[![Batalha Naval](https://github-readme-stats.vercel.app/api/pin/?username=JpPrates21&repo=BatalhaNaval&bg_color=0D1117&border_color=A020F0&show_icons=true&icon_color=FFFFFF&title_color=A020F0&text_color=FFF)](https://github.com/JpPrates21/BatalhaNaval])
+[![Batalha Naval](https://github-readme-stats.vercel.app/api/pin/?username=JpPrates21&repo=BatalhaNaval&bg_color=0D1117&border_color=A020F0&show_icons=true&icon_color=FFFFFF&title_color=A020F0&text_color=FFF)](https://github.com/JpPrates21/BatalhaNaval)
 
 ---
 
