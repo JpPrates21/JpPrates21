@@ -11,7 +11,9 @@ Estudante de **Engenharia de Controle e Automação** na **Universidade Federal 
 
 ## 🔗 Vamos nos conectar
 
-[![My Skills](https://skillicons.dev/icons?i=github,gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/JpPrates21)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](jpprates2016@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joão-pedro-prates-9563051ab/)
 
 ---
 
