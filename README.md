@@ -18,7 +18,7 @@ Estudante de **Engenharia de Controle e Automação** na **Universidade Federal 
 ---
 
 ## 🛠 Habilidades Técnicas
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,c,cpp)](https://skillicons.dev)
 
 ---
 
