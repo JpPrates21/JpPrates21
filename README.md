@@ -1,12 +1,12 @@
 # 👨‍💻 João Pedro Pinheiro Prates
 
-### Engenharia de Controle e Automação | Full-Stack Developer 
+### Engenharia de Controle e Automação | BackEnd Developer 
 
 ---
 
 ## 💻 Sobre mim
 
-Estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)**, 20 anos. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **programação full-stack**.
+Estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)**, 20 anos. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **programação backend**.
 ---
 
 ## 🔗 Vamos nos conectar
