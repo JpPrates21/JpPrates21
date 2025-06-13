@@ -6,7 +6,7 @@
 
 ## 💻 Sobre mim
 
-Estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)**, 20 anos. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **programação backend**.
+Estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)**. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** e me especializo em **desenvolvimento backend**.
 ---
 
 ## 🔗 Vamos nos conectar
