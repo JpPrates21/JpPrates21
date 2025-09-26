@@ -1,12 +1,7 @@
 # 👨‍💻 João Pedro Pinheiro Prates
 
-### Engenharia de Controle e Automação | BackEnd Developer 
+### Engenharia de Sistemas | Data Analytics
 
----
-
-## 💻 Sobre mim
-
-Estudante de **Engenharia de Controle e Automação** na **Universidade Federal de Minas Gerais (UFMG)**. Atualmente, trabalho na área de **Tecnologia da Informação (TI)** 
 ---
 
 ## 🔗 Vamos nos conectar
